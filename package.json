@@ -1,7 +1,7 @@
 {
   "name": "cbxml",
   "version": "1.0.0",
-  "description": "",
+  "description": "CBXML is an experiment in reading CMXML files from Node.js",
   "main": "index.js",
   "scripts": {
     "start": "node --harmony index.js",
