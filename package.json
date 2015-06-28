@@ -1,0 +1,21 @@
+{
+  "name": "cbxml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "james@womack.io",
+  "license": "ISC",
+  "dependencies": {
+    "assert-plus": "0.1.5",
+    "console.table": "0.4.0",
+    "js-base64": "^2.1.8",
+    "pixl-xml": "1.0.3"
+  },
+  "devDependencies": {
+    "esprima-fb": "^15001.1.0-dev-harmony-fb"
+  }
+}
